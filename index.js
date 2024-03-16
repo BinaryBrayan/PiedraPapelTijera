@@ -44,3 +44,5 @@ while(triunfos<3 && derrotas<3){
         derrotas+=1
     }
 }
+
+alert('Ganaste '+triunfos+' veces.Perdiste '+derrotas+' veces.')
